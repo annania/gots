@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/Comcast/gots.svg?branch=master)](https://travis-ci.org/Comcast/gots)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Comcast/gots)](https://goreportcard.com/report/github.com/Comcast/gots)
 [![Coverage Status](https://coveralls.io/repos/github/Comcast/gots/badge.svg?branch=master)](https://coveralls.io/github/Comcast/gots?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Fgots.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Fgots?ref=badge_shield)
 
 
 # goTS (Go Transport Streams)
@@ -21,6 +22,9 @@ go test -v ./...
 ```
 ## License 
 This software is licensed under the MIT license. For full text see [LICENSE](./LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Fgots.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Fgots?ref=badge_large)
 
 ## Code of Conduct
 We take our [code of conduct](CODE_OF_CONDUCT.md) very seriously. Please abide by it.
